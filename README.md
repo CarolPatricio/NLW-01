@@ -5,7 +5,7 @@
     <img src="https://ik.imagekit.io/carolina17/ecoleta_TqHMn3_n_.gif">
 </h1>
 
-## [Sobre](-o-que-é-a-next-level-week?) |  [Projeto](#-projeto) |  [Tecnologias](#-tecnologias) |  [Como baixar o projeto?](#-como-baixar-o-projeto?)
+## [Sobre](#-o-que-é-a-next-level-week?) |  [Projeto](#-projeto) |  [Tecnologias](#-tecnologias) |  [Como baixar o projeto?](#-como-baixar-o-projeto)
 
 
 ## 💬 O que é a Next Level Week?
@@ -33,7 +33,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ---
 
-## 📦 Como baixar o projeto?
+## 📦 Como baixar o projeto
 
 #### Instalar API
 ```bash
