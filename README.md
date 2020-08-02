@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://ik.imagekit.io/carolina17/ecoleta_Wc8vGVvs5.svg">
 </h1>
-<h1 >
+<h1 align="center">
     <img src="https://ik.imagekit.io/carolina17/ecoleta_TqHMn3_n_.gif">
 </h1>
 
