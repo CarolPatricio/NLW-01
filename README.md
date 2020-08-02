@@ -5,10 +5,10 @@
     <img src="https://ik.imagekit.io/carolina17/ecoleta_TqHMn3_n_.gif">
 </h1>
 
-## [Sobre](#-o-que-é-a-next-level-week?) |  [Projeto](#-projeto) |  [Tecnologias](#-tecnologias) |  [Como baixar o projeto?](#-como-baixar-o-projeto)
+## [Sobre](#-o-que-é-a-next-level-week) |  [Projeto](#-projeto) |  [Tecnologias](#-tecnologias) |  [Como baixar o projeto?](#-como-baixar-o-projeto)
 
 
-## 💬 O que é a Next Level Week?
+## 💬 O que é a Next Level Week
 
 É um evento online da **Rocketseat** com muito conteúdo prático desafios e hacks que ajuda o dev a avançar para o próximo nível. Aconteceu em 5 dias entre o dia 1 a 07 de junho de 2020. 
 
