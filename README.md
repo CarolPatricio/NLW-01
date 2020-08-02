@@ -5,7 +5,8 @@
     <img src="https://ik.imagekit.io/carolina17/ecoleta_TqHMn3_n_.gif">
 </h1>
 
- [Sobre](#-o-que-é-a-Next-Level-Week?) |  [Projeto](#projeto) |  [Tecnologias](#tecnologias) |  [Como baixar o projeto?](#como-baixar-o-projeto?)
+## [Sobre](#O-que-é-a-Next-Level-Week?) |  [Projeto](#Projeto) |  [Tecnologias](#Tecnologias) |  [Como baixar o projeto?](#Como-baixar-o-projeto?)
+
 
 ## 💬 O que é a Next Level Week?
 
