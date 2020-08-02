@@ -2,7 +2,7 @@
     <img src="https://ik.imagekit.io/carolina17/ecoleta_Wc8vGVvs5.svg">
 </h1>
 <h1 >
-    <img src="https://ik.imagekit.io/carolina17/gifNlw_6Gw20ORmf.gif">
+    <img src="https://ik.imagekit.io/carolina17/ecoleta_TqHMn3_n_.gif">
 </h1>
 
  [Sobre](#-o-que-é-a-Next-Level-Week?) |  [Projeto](#projeto) |  [Tecnologias](#tecnologias) |  [Como baixar o projeto?](#como-baixar-o-projeto?)
@@ -46,7 +46,7 @@ $ cd NLW-01/server
 $ npm install
 
 # Rodar as migrações
-$ ynpm knex:migrate
+$ npm knex:migrate
 
 # Rodar o Seeds
 $ npm knex:seed
