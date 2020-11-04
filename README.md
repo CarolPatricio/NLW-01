@@ -76,7 +76,7 @@ $ npm start
 ```
 
 
-#### Instalar Back-end
+#### Instalar Front-end Mobile
 ```bash
 # Clonar o repositório
 $ git clone https://github.com/CarolPatricio/NLW-01.git
