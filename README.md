@@ -76,7 +76,7 @@ $ npm start
 ```
 
 
-#### Instalar Front-end
+#### Instalar Back-end
 ```bash
 # Clonar o repositório
 $ git clone https://github.com/CarolPatricio/NLW-01.git
